@@ -115,11 +115,3 @@ p {
     box-shadow: 0px 5px 10px 0px rgba(64, 64, 64, 0.15);
     background: var(--shades-white, #FFF);
 }
-
-.badge {
-    height: 72px;
-    width: 72px;
-    background-color: blue;
-    border-radius: 36px;
-    margin-top: 4px;
-}
